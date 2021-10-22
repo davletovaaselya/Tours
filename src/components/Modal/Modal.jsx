@@ -1,7 +1,6 @@
 import React from 'react'
 import style from './Modal.module.scss'
 import { MainContext } from '../../context'
-import { useEffect } from 'react'
 import { useState } from 'react'
 
 export default function Modal() {

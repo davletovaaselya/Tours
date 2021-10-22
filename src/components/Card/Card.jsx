@@ -3,10 +3,9 @@ import { Link } from 'react-router-dom'
 import { MainContext } from '../../context';
 import style from './Card.module.scss'
 
-
 function Card() {
     const {card, setId} =React.useContext(MainContext)
-     
+    
     return (
         <div className={style.card}>
             <div className={style.wrap}>

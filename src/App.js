@@ -74,6 +74,7 @@ function App() {
           <Route path='/favorites'>
             <Favorites />
           </Route>
+          
         </div>
         <Footer />
       </div>

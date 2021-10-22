@@ -11,9 +11,9 @@ function About() {
             </p>
             <br />
             <div className='about_countainer'>
-                <img style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature1_sm.jpeg" alt="location" />
-                <img style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature2_sm.jpeg" alt="location" />
-                <img style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature3_sm.jpeg" alt="location" />
+                <img width={375} style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature1_sm.jpeg" alt="location" />
+                <img width={375} style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature2_sm.jpeg" alt="location" />
+                <img width={375} style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature3_sm.jpeg" alt="location" />
             </div>
             <br />
             <p className='item_about'>Sometimes referred to as the pearl of Central Asia, Lake Issyk-Kul is the world’s second-largest alpine lake. The north shore is where the largest number of resorts and public beaches are located, while the south shore is famous for its nature and gorges. Karakol, the largest city in Issyk-Kul Province, is the starting point for many treks to some of the most famous glaciers and surrounding mountains. From Karakol, one can visit Jeti Oguz and other striking red sandstone formations.
@@ -23,9 +23,9 @@ function About() {
             </p>
             <br />
             <div className='about_countainer'>
-                <img style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature4_sm.jpeg" alt="location" />
-                <img style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature5_sm.jpeg" alt="location" />
-                <img style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature6_sm.jpeg" alt="location" />
+                <img width={375} style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature4_sm.jpeg" alt="location" />
+                <img width={375} style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature5_sm.jpeg" alt="location" />
+                <img width={375} style={{ marginBottom: '15px' }} src="/images/kyrgyzstan-nature6_sm.jpeg" alt="location" />
             </div>
             <br />
             <p className='item_about'>
